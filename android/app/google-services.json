@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231776881427",
+    "project_id": "authentication-47edb",
+    "storage_bucket": "authentication-47edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231776881427:android:44ab2247585b77ca1d68e6",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231776881427-4tlvstdosfrlt1i6q41n31m63grj2rt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQLEBA-6QeMcBz9JkXe03psw382sYEYV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231776881427-4tlvstdosfrlt1i6q41n31m63grj2rt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
